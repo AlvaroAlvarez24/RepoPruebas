@@ -1,5 +1,0 @@
-{
-  "ConnectionStrings": {
-    "DefaultConnection": "Server=localhost;Database=TuBaseDeDatos;User Id=tu_usuario;Password=tu_contraseña;TrustServerCertificate=True;"
-  }
-}
